@@ -1,2 +1,1 @@
-# BookSearchEngine
-Book searching function
+# Book Search Engine Starter Code
